@@ -1,4 +1,4 @@
-var socket=io.connect('https://myrep-g4m6.onrender.com')
+var socket=io.connect('https://a-chatapp.onrender.com')
 var username=document.getElementById('username')
 var message=document.getElementById('mess')
 var send=document.getElementById('send')
