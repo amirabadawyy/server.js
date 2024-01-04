@@ -1,4 +1,4 @@
-var socket=io.connect('https://chatting1-rzl1.onrender.com')
+var socket=io.connect('http://localhost:7005')
 var username=document.getElementById('username')
 var message=document.getElementById('mess')
 var send=document.getElementById('send')
