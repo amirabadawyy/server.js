@@ -1,4 +1,4 @@
-var socket=io.connect('https://newchatapp-1srf.onrender.com')
+var socket=io.connect('https://newchatting.onrender.com')
 var username=document.getElementById('username')
 var message=document.getElementById('mess')
 var send=document.getElementById('send')
